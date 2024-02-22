@@ -14,7 +14,7 @@ Expands `assert_snapshot` fixture from [pytest-playwright-snapshot](https://gith
 ## Installation
 
 ```bash
-$ pip install pytest-playwright-visual
+$ pip install git+https://github.com/hlmr-erik/pytest-playwright-visual.git
 ```
 
 ## Usage
